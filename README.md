@@ -10,5 +10,8 @@ Currently learning
 Tech I've used
 Python · SQL · MySQL · Node.js · Express.js · JavaScript · Git
 
+Projects
+- [backend-api-prototype](https://github.com/mohamedyaserhasabo/backend-api-prototype): REST API prototype for a lab booking system (Node.js, Express, MySQL)
+
 Contact
 [LinkedIn](https://www.linkedin.com/in/mohamed-yaser-hasabo) · mohamedhasaboo@outlook.com
