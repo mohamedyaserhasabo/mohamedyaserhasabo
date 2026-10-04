@@ -1,16 +1,14 @@
-## Hi there 👋
+ Hi, I'm Mohamed 
 
-<!--
-**mohamedyaserhasabo/mohamedyaserhasabo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Engineering student in Mansoura, Egypt. I study Health Information Technology and I'm building my skills toward a Data Engineering career.
 
-Here are some ideas to get you started:
+Currently learning
+- Python and Pandas for data cleaning and transformation
+- SQL and database design
+- Data pipeline fundamentals (ingestion, cleaning, storage)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech I've used
+Python · SQL · MySQL · Node.js · Express.js · JavaScript · Git
+
+Contact
+[LinkedIn](https://www.linkedin.com/in/mohamed-yaser-hasabo) · mohamedhasaboo@outlook.com
